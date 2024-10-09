@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebubekirkurt" alt="ebubekirkurt" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Flutter**
+- 🌱 I’m currently learning **Python and Flutter/Dart**
 
 - 📫 How to reach me **ebubekirr.kurt3@gmail.com**
 
