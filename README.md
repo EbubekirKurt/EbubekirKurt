@@ -1,14 +1,13 @@
-<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/0eb68e06-1903-4926-9975-9e512de36209" /><div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Ebubekir Kurt  
-### Full-Stack & Mobile Software Engineer
+# 👋 Selam, ben Ebubekir Kurt
 
-I'm a passionate developer focused on building scalable web and mobile applications with **Python, .NET, React, Angular, Flutter, Kotlin** and more.  
+I'm a Full-Stack and Mobile Software Engineer focused on developing scalable web and mobile applications with Python, .NET, React, Angular, Flutter, Kotlin and more.
 
 🎓 Software Engineering Student (4th Year) @ Beykoz University  
-🏢 Currently working at **Aras Dijital**  
+🏢 Currently working at Aras Dijital  
 📍 Based in Istanbul, Türkiye  
-📫 Reach me at: **ebubekirr.kurt3@gmail.com**  
+📫 Reach me at: ebubekirr.kurt3@gmail.com  
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhkNDE0Y3I1NWxxMmhmdnV5dHRhM2hsNW1ydnJweXF2NG10ZmZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbG9wtoO8QScw/giphy.gif)
 
@@ -31,25 +30,27 @@ I'm a passionate developer focused on building scalable web and mobile applicati
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EbubekirKurt&theme=tokyonight&hide_border=true" width="1000" height="320" />
+  <img src="https://github-streak-stats-gray.vercel.app/api/github/EbubekirKurt/svg" alt="GitHub Streak Stats" width="1000" height="320" />
 </div>
 
 ---
 
 ## 🎵 Spotify
 
-[![Spotify](https://novatorem-ebubekirkurt.vercel.app/api/spotify)](https://open.spotify.com/user/75t8k47nx479x5f2ju85wl758)
 
+[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/75t8k47nx479x5f2ju85wl758)](https://open.spotify.com/user/75t8k47nx479x5f2ju85wl758)
+            
 ---
 
-## 📫 Contact Me
+## 📫 Bana Ulaş
 
-[GitHub](https://github.com/EbubekirKurt) • [Portfolio](https://ebubekirkurt.w3spaces.com/index.html) • **Mail:** ebubekirr.kurt3@gmail.com  
+[GitHub](https://github.com/EbubekirKurt) • [Portföy](https://ebubekirkurt.w3spaces.com/index.html) • **Mail:** ebubekirr.kurt3@gmail.com  
 
 ---
 
